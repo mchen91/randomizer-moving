@@ -1,0 +1,8 @@
+*.o
+*.elf
+*.bin
+moving_targets_keyframe.gecko.txt
+moving_targets_engine.gecko.txt
+/tmp/
+__pycache__/
+*.pyc
